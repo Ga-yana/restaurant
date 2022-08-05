@@ -5,7 +5,8 @@ By Ga-yana
 ![HTML CSS](https://img.shields.io/badge/HTML-CSS-yellow)  
 #
 
-## A static homepage for a Restaurant.  
+## A static homepage for a Restaurant.    
+### Click [here](https://strong-meringue-e5eb68.netlify.app/) to see it live.
 
 
 ![Homepage](./Screenshot%202022-08-05%20at%2012.43.40%20PM.png)
