@@ -6,7 +6,7 @@ By Ga-yana
 #
 
 ## A static homepage for a Restaurant.    
-### Click [here](https://strong-meringue-e5eb68.netlify.app/) to see it live.
+### Click [here](https://restaurantgoodfood.netlify.app/) to see it live.
 
 
 ![Homepage](./Screenshot%202022-08-05%20at%2012.43.40%20PM.png)
